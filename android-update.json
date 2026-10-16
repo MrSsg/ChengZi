@@ -1,0 +1,1 @@
+{"versionCode":50,"versionName":"0.3.15","tag":"v0.3.15","apk":"ChengZi-Android-v0.3.15-release.apk","size":8803923,"sha256":"e26d76dc740cbfffc8749c1c3287b9cd802bd617621358f09edba2c60c84b738","notes":"修复红果短剧、漫剧加载失败：更新单集取流接口与 Argus/Ladon 签名，适配新版清晰度和视频密钥解析。"}
